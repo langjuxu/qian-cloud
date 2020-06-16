@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../qian-service/qian-api/qian-api.iml" filepath="$PROJECT_DIR$/../qian-service/qian-api/qian-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qian-service/qian-biz/qian-biz.iml" filepath="$PROJECT_DIR$/../qian-service/qian-biz/qian-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qian-cloud.iml" filepath="$PROJECT_DIR$/qian-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qian-service/qian-service.iml" filepath="$PROJECT_DIR$/../qian-service/qian-service.iml" />
+    </modules>
+  </component>
+</project>
