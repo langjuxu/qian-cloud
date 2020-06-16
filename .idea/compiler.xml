@@ -14,6 +14,7 @@
       <module name="qian-api" target="1.8" />
       <module name="qian-biz" target="1.8" />
       <module name="qian-cloud" target="1.8" />
+      <module name="qian-common" target="1.8" />
       <module name="qian-nacos" target="1.8" />
       <module name="qian-service" target="1.8" />
     </bytecodeTargetLevel>

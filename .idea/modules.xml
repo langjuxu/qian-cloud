@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../qian-service/qian-api/qian-api.iml" filepath="$PROJECT_DIR$/../qian-service/qian-api/qian-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/../qian-service/qian-biz/qian-biz.iml" filepath="$PROJECT_DIR$/../qian-service/qian-biz/qian-biz.iml" />
       <module fileurl="file://$PROJECT_DIR$/qian-cloud.iml" filepath="$PROJECT_DIR$/qian-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qian-common/qian-common.iml" filepath="$PROJECT_DIR$/../qian-common/qian-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/../qian-service/qian-service.iml" filepath="$PROJECT_DIR$/../qian-service/qian-service.iml" />
     </modules>
   </component>
